@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 Enthusiastic 2nd-year student passionate about solving real-world problems through technology. Actively enhancing expertise in Artificial Intelligence, Machine Learning, Data science and Full-stack development, with hands-on experience in real-time projects.<br>
 
 
@@ -13,6 +13,4 @@ Enthusiastic 2nd-year student passionate about solving real-world problems throu
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AWMM-22&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=AWMM-22&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
