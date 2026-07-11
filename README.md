@@ -1,5 +1,5 @@
 
-Enthusiastic 2nd-year student passionate about solving real-world problems through technology. Actively enhancing expertise in Artificial Intelligence, Machine Learning, Data science and Full-stack development, with hands-on experience in real-time projects.<br>
+Enthusiastic 3rd-year student passionate about solving real-world problems through technology. Actively enhancing expertise in Artificial Intelligence, Machine Learning, Data science and Full-stack development, with hands-on experience in real-time projects.<br>
 
 
 ## 🌐 Socials:
