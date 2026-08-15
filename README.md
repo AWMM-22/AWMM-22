@@ -1,5 +1,9 @@
 
-Enthusiastic 3rd-year student passionate about solving real-world problems through technology. Actively enhancing expertise in Artificial Intelligence, Machine Learning, Data science and Full-stack development, with hands-on experience in real-time projects.<br>
+I build AI systems that actually do things.
+
+I'm a 3rd-year Computer Engineering student at D. J. Sanghvi College of Engineering, focused on Agentic AI, RAG systems, Machine Learning, and AI-powered applications.
+
+I enjoy turning ideas into working systems — from multi-agent workflows and production-oriented RAG pipelines to ML applications and full-stack AI products.<br>
 
 
 ## 🌐 Socials:
