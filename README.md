@@ -6,7 +6,7 @@ I'm a 3rd-year Computer Engineering student at D. J. Sanghvi College of Engineer
 
 I enjoy turning ideas into working systems — from multi-agent workflows and production-oriented RAG pipelines to ML applications and full-stack AI products.<br>
 
-<img src="Screenshot 2026-08-15 235509.png" href="https://ommportfolio.vercel.app/">
+<a href="https://ommportfolio.vercel.app/"><img src="Screenshot 2026-08-15 235509.png" ></a>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/om-jadhav-09aaba304) [![email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
