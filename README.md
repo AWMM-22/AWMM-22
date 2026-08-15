@@ -1,7 +1,8 @@
+## 👋 About Me
 
-I build AI systems that actually do things.
+> **I build AI systems that actually do things.**
 
-I'm a 3rd-year Computer Engineering student at D. J. Sanghvi College of Engineering, focused on Agentic AI, RAG systems, Machine Learning, and AI-powered applications.
+I'm a 3rd-year Computer Engineering student at D. J. Sanghvi College of Engineering, focused on **Agentic AI, RAG systems, Machine Learning, and AI-powered applications**.
 
 I enjoy turning ideas into working systems — from multi-agent workflows and production-oriented RAG pipelines to ML applications and full-stack AI products.<br>
 
