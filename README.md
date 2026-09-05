@@ -1,6 +1,31 @@
-## 👋 About Me
+<div align="center">
 
-> **I build AI systems that actually do things.**
+# OM JADHAV
+
+---
+
+### TY AI & Data Science @ DJSCE Mumbai
+
+**A Systems · UI/UX · Automation Engineer · Freelancer**
+**I build AI systems that actually do things.**
+
+<br/>
+
+![ML](https://img.shields.io/badge/ML-202124?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-202124?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-202124?style=for-the-badge)
+![Frontend](https://img.shields.io/badge/Frontend-202124?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-202124?style=for-the-badge)
+![UI/UX Design](https://img.shields.io/badge/UI/UX_Design-202124?style=for-the-badge)
+![Backend](https://img.shields.io/badge/Backend-202124?style=for-the-badge)
+
+<br/>
+
+🏅 **5x Hackathon Winner** | **Top 10 @ IIT DELHI** | **Top 10 @ NSCIF 2026 among 1000 teams** | **AI Intern @ BlitzBonkers & Qbliq.io**
+
+</div>
+
+
 
 I'm a 3rd-year Computer Engineering student at D. J. Sanghvi College of Engineering, focused on **Agentic AI, RAG systems, Machine Learning, and AI-powered applications**.
 
