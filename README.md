@@ -6,8 +6,8 @@
 
 ### TY AI & Data Science @ DJSCE Mumbai
 
-**A Systems · UI/UX · Automation Engineer · Freelancer**
-**I build AI systems that actually do things.**
+**AI Systems · UI/UX · Automation Engineer · Freelancer** </br>
+**I build AI systems that shape the world.**
 
 <br/>
 
